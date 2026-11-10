@@ -9,8 +9,6 @@ Staff and POS systems are isolated from customer guest Wi-Fi, devices are manage
 ![Level](https://img.shields.io/badge/Level-CCNA-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-> ⚠️ **Template note:** The IP addresses, VLAN IDs, port numbers, and SSID in this document are examples. Replace every `<placeholder>` and any value that differs from your `.pkt` file before publishing.
-
 ---
 
 ## 📑 Table of Contents
